@@ -1,0 +1,7 @@
+C:\Users\Shahed\Documents\PSoC Creator\BLE Lab 1\BLE Lab 1.cydsn\BLE Lab 1.cyprj|d1e8c4c1-ac1f-4ff0-9015-c71cc35794d3
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|af59f365-dd87-4620-b3e4-511ff34fa67b
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|42476806-1ec0-40f9-b253-19d0ff1c86be
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|cfdbbd97-4eda-4351-916c-0fc262f6d385
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|5e96f51e-cec9-4ef4-a6d5-84ec3ac60620
+C:\Users\Shahed\Documents\PSoC Creator\BLE Lab 1\HelloWorld_Blinky01.cydsn\HelloWorld_Blinky01.cyprj|c8ba6a93-ec02-4878-a3a7-977234cd15ca
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|d011047f-fc91-471e-8b85-43f35aab7dc1

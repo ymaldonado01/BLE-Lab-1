@@ -1,0 +1,8 @@
+--------------- Build Started: 09/27/2016 10:39:51 Project: HelloWorld_Blinky01, Configuration: DP8051 Keil 9.51 Debug ---------------
+The code generation step is up to date.
+The compile step is up to date, no work needs to be done.
+The link step is up to date, no work needs to be done.
+cyhextool -o .\DP8051_Keil_951\Debug\HelloWorld_Blinky01.hex -f .\DP8051_Keil_951\Debug\HelloWorld_Blinky01.ihx -prot .\Generated_Source\PSoC3\protect.hex -id 1E028069 -a EEPROM=90200000:800,PROGRAM=00000000:10000,CONFIG=80000000:2000,PROTECT=90400000:40 -meta 0301 -cunv 00004005 -wonv BC90ACAF -ecc OFF
+Flash used: 3285 of 65536 bytes (5.0 %).
+SRAM used: 365 of 8192 bytes (4.5 %).
+--------------- Build Succeeded: 09/27/2016 10:39:54 ---------------

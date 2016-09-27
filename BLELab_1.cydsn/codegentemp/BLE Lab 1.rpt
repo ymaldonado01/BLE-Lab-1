@@ -1,0 +1,18 @@
+Loading plugins phase: Elapsed time ==> 0s.414ms
+Initializing data phase: Elapsed time ==> 0s.000ms
+<CYPRESSTAG name="CyDsfit arguments...">
+cydsfit arguments: -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -p C:\Users\Shahed\Documents\PSoC Creator\BLE Lab 1\BLE Lab 1.cydsn\BLE Lab 1.cyprj -d CY8C4247LQI-BL483 -s C:\Users\Shahed\Documents\PSoC Creator\BLE Lab 1\BLE Lab 1.cydsn\Generated_Source\PSoC4 -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE</CYPRESSTAG>
+<CYPRESSTAG name="Design elaboration results...">
+ADD: sdb.M0050: error: Terminal "kill" requires connection when it is visible.
+ * C:\Users\Shahed\Documents\PSoC Creator\BLE Lab 1\BLE Lab 1.cydsn\TopDesign\TopDesign.cysch (Signal: Net_686)
+ * C:\Users\Shahed\Documents\PSoC Creator\BLE Lab 1\BLE Lab 1.cydsn\TopDesign\TopDesign.cysch (Shape_9.22)
+
+ADD: pft.M0025: error: Clock Error: (Unable to find source clock 'ILO' for 'Clock_1'.).
+ * C:\Users\Shahed\Documents\PSoC Creator\BLE Lab 1\BLE Lab 1.cydsn\BLE Lab 1.cydwr (Clock_1)
+ * C:\Users\Shahed\Documents\PSoC Creator\BLE Lab 1\BLE Lab 1.cydsn\TopDesign\TopDesign.cysch (Instance:Clock_1)
+
+ADD: sdb.M0059: error: Error in component: PWM. Component does not support Fixed Function implementation for PSoC 4 device. Please open config dialog and change implementation to UDB (by pressing "Apply" button).
+ * C:\Users\Shahed\Documents\PSoC Creator\BLE Lab 1\BLE Lab 1.cydsn\TopDesign\TopDesign.cysch (Instance:PWM)
+
+</CYPRESSTAG>
+Elaboration phase: Elapsed time ==> 2s.439ms
